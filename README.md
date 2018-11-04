@@ -1,6 +1,7 @@
 ## Function chaining in Durable Functions
 ### Hello sequence sample
 
+- [Prerequisites: Install the Durable Functions extension](https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-install)
 - [Official Documentation](https://docs.microsoft.com/azure/azure-functions/durable-functions-sequence)
 - Steps to run this sample are as follows:
   1. Clone this repo: `git clone https://github.com/mike-urnun-msft/df-chaining.git`
